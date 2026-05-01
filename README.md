@@ -40,7 +40,7 @@ The model learns visual patterns such as:
 ## 🤖 Trained Model
 
 👉 **Download Model:**  
-[https://drive.google.com/file/d/1sIAAgLpHuJBQCiQLkPMKPltwo2I91CT0/view?usp=sharing]
+[https://drive.google.com/drive/folders/1Xg3-spuERoke3zJ9AaT5dtF-be0EnYAZ?usp=drive_link]
 
 ---
 
